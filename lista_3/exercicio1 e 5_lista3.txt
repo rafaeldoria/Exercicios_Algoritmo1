@@ -1,0 +1,29 @@
+Rafael Dória
+
+exercício 1 lista 3
+
+1. Responda:
+a. Por que usamos estruturas de repetição no desenvolvimento de programas?
+
+Para repetir determinadas ações,entrada de dados,etc, por N numeros de vezes. 
+
+b. Quando devemos usar a estrutura de repetição for e quando devemos usar as estruturas while e do-while?
+
+A estrutura for é usada quando se sabe o número de vezes que se quer rodar determinada ação, e while e do while,
+quando não se sabe exatamente esse número.
+
+exercicio 5 lista 3
+
+Substitua o valor do símbolo "??" no código acima por cada um dos valores apresentados abaixo. E mostre o resultado final do programa para cada dos valores de val.
+a)
+val = -1
+Resposta = 17
+b)
+val = 0
+Resposta = 18
+c)
+val = 2
+Resposta = 20
+d)
+val = 3
+Resposta = 21
